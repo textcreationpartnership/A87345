@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The impeachment and articles of complaint against Father Philips the Queenes confessor. Lately committed to the tower, by the honourable and high court of Parliament Nov. 2. 1641. As also, the committing of three of the Queenes servants, that came to visit him; who deny to take the oath of supremacie, and the protestation. With the plot about the tower, supposed to rescue him out, or some such evill designe. With the Popes breve sent to Father Philips, with presents brought to the Queens court, with the Popes picture in gold. As also his sending away of above 10000. pounds, which was partly gathered with a pretence to assist the King against the Scots.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87345</idno>
+            <idno type="STC">Wing I92</idno>
+            <idno type="STC">Thomason E175_18</idno>
+            <idno type="STC">ESTC R5608</idno>
+            <idno type="EEBO-CITATION">99872873</idno>
+            <idno type="PROQUEST">99872873</idno>
+            <idno type="VID">157086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157086)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E175[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The impeachment and articles of complaint against Father Philips the Queenes confessor. Lately committed to the tower, by the honourable and high court of Parliament Nov. 2. 1641. As also, the committing of three of the Queenes servants, that came to visit him; who deny to take the oath of supremacie, and the protestation. With the plot about the tower, supposed to rescue him out, or some such evill designe. With the Popes breve sent to Father Philips, with presents brought to the Queens court, with the Popes picture in gold. As also his sending away of above 10000. pounds, which was partly gathered with a pretence to assist the King against the Scots.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing subsumes two editions under I92; this edition includes "the Popes breve sent to Father Philips.." and "his sending away of above 10000. pounds..".</note>
+                  <note>Annotation on Thomason copy: "This is larger then the former".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philips, Robert, d. 1650? --  Impeachment --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157086:1"/>
+            <pb facs="tcp:157086:1" rendition="simple:additions"/>
+            <p>THE IMPEACHMENT AND ARTICLES OF COMPLAINT AGAINST FATHER PHILIPS The Queenes Confeſſor.</p>
+            <p>Lately committed to the Tower, by the Honourable and high Court of Parliament <hi>Nov.</hi> 2. 1641.</p>
+            <p>AS ALSO, The committing of three of the Queenes Servants, that came to viſit him; whodeny to take the Oath of Supremacie, and the <hi>Proteſtation.</hi>
+            </p>
+            <p>With the <hi>Plot</hi> about the Tower, ſuppoſed to Reſcue him out, or ſome ſuch Evill Deſigne.</p>
+            <p>With the Popes <hi>Breve</hi> ſent to Father <hi>Philips,</hi> with pre<g ref="char:EOLhyphen"/>ſents brought to the Queens Court, with the Popes picture in Gold.</p>
+            <p>As alſo, his ſending away of above 10000. pounds, which was partly gathered with a pretence to aſſiſt the King againſt the Scots.</p>
+            <p>London Printed for A. I. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:157086:2"/>
+            <p>
+               <figure>
+                  <head>
+                     <choice>
+                        <abbr>FPTQC</abbr>
+                        <expan>Father Philips the Queen's Confessor</expan>
+                     </choice>
+                  </head>
+                  <figDesc>portrait of Father Philips</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="articles_afainst_Father_Philips">
+            <pb facs="tcp:157086:2"/>
+            <head>THE JNPEACHMENT AND ARTICLES OF Complaint, againſt Father <hi>Philips,</hi> the Queenes Confeſſor, lately committed to the Tower, by the Honourable, and High Court of Parliament.</head>
+            <p n="1">
+               <hi>I.</hi> That the ſaid Father <hi>Philips</hi> hath bin obſerved to be a great cauſe, both in himſelfe, and his Adherents of a great part of the unquietneſſe of this State.</p>
+            <p n="2">
+               <hi>II.</hi> Hee with Parſons, and others their Aſſiſtants were the onely cauſe, that the Pope was ſtirred up to ſend <hi>Breves,</hi> to theſe Kingdomes of England, and Scot<g ref="char:EOLhyphen"/>land, to hinder the Oath of Allegeance and lawfull O<g ref="char:EOLhyphen"/>bedience of the Subjects to our gratious King, that ſo they may ſtill fiſh in troubled waters,</p>
+            <p n="3">
+               <hi>III.</hi> Of the damnable Doctrine, which he and other Ie<g ref="char:EOLhyphen"/>ſuits have taught, to deſtroy and depoſe Kings, hath bin
+<pb facs="tcp:157086:3"/>the cauſe of the civill warres, like to befall theſe King<g ref="char:EOLhyphen"/>domes, if God in his mercy did-not prevent it.</p>
+            <p n="4">
+               <hi>IV.</hi> They have bin the cauſe of the Monopolyes proje<g ref="char:EOLhyphen"/>cted in this Kingdmne, eſpecially concerning Sope, the Forreſt of Deane, and marking of Butter-Casks, where all the parties were partners, and confederates with them, as Sir Baſill Brooke, Sir Iohn Winter, and a brother in Law of the ſaid Sir Iohn, that lived in Worceſte-ſhire, and Mr. Ployden, whoſe Servant named Baldwin, hath bin ſeene to deliver to Captaine Reade, a ſubſtitute of the Ieſuits, an hundred pounds at a time to one Ieſuit that lived in his houſe.</p>
+            <p n="5">
+               <hi>V.</hi> Father Philips hath bin a great Actor with the Superior of the Capuchins, who is a moſt turbulent Spirit, and was ſent biſher by Cardinall Richlieu of France, to be a ſpy at this Court, for the French facti<g ref="char:EOLhyphen"/>on: and hath therefore laboured by all meanes to bréed diſſenſions; for the French ayme at nothing more then to make a Schiſme betwixt the Engliſh &amp; the Scots, that this State might ſo be weakned, and made unable to withſtand them: that ſo they might have an oppor<g ref="char:EOLhyphen"/>tunity to conquer theſe Kingdomes: theſe unquiet ſpi<g ref="char:EOLhyphen"/>rits having acceſſe to her Majeſty, may importune things not fit for the State.</p>
+            <p n="6">
+               <hi>VI.</hi> The ſaid Philips hath bin guided by gray Fry<g ref="char:EOLhyphen"/>er, who by degrées hath intruded himſelfe to be a Clark of her Majeſtyes Chappell, and Chaplaine extraordi<g ref="char:EOLhyphen"/>nary, in time of Progreſſe. who when he is out of Lon<g ref="char:EOLhyphen"/>don, goeth by the name of M. Wilſon, but his true name is William Tompſon, Dr. of Divinity, as ſome Ie<g ref="char:EOLhyphen"/>ſuits have affirmed; but a moſt furious ſpirit, and un<g ref="char:EOLhyphen"/>quiet: and therefore by a nick-name, is by ſome called
+<pb facs="tcp:157086:3"/>Cacafugor that is, as much, as if in Engliſh you ſhould ſay, Shit-fire: by whom Faſher Philips hath béens ſo led, that he hath beene very offitient to perform what<g ref="char:EOLhyphen"/>ſoever he would have done: theſe two have ruled all the buſineſſe concerning the two Kingdomes on the Papiſts parts, and for the moſt part of <hi>Rome</hi> alſo.</p>
+            <p n="7">
+               <hi>VII.</hi> Vhe ſaid Father Philips hath placed many un<g ref="char:EOLhyphen"/>fit perſons about her Meieſty, Sir <hi>Iohn Winter</hi> to bée her Maieſties Secretary; Seignior Gorgeos Conne) late agent of the Pope, his brother, was by his means, admitted to be ſervant extraordinar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Queene; a man altogether unfit for that place; a moſt ſcanda<g ref="char:EOLhyphen"/>lous perſon having <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hree wives all now alive.</p>
+            <p n="8">
+               <hi>VIII,</hi> Sundry perſons by the ſaid Father Philips have beene admitted to be the Queenes ſervants exzraordi<g ref="char:EOLhyphen"/>nary, by ſome ſuppoſed office or other: as Myſter La<g ref="char:EOLhyphen"/>bourne: Oeorge Gage (brother to Colonell Gage) bath both Oratoriant Prieſts, the one of the French faction very ſeditious, he other of the Spaniſh, whoes brother is now left reaſident at ROME for them by his Maſter, Maſter <hi>VVilliam Hambelton</hi> late agen<g ref="char:EOLhyphen"/>at ROME-Penrik is ſworne ſervant extraordina<g ref="char:EOLhyphen"/>ry to her Majeſty, who is a ſworne Spaniard, and int<g ref="char:EOLunhyphen"/>telligencer for ROME, in reſpect his brother is a<g ref="char:EOLhyphen"/>gent here by Father Phillips; theſe and many otgers who are factious and turbulent ſpirits have by Father Philips his meanes received protection from the Queenes Mh jeſty.</p>
+            <p n="9">
+               <hi>IX.</hi> Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid Philips hath beene much ruled by Sir <hi>Toby Mathewes.</hi> Sir <hi>Iohn Winter</hi> and Maſter <hi>Walter Mountague.</hi>
+            </p>
+            <p n="10">
+               <pb facs="tcp:157086:4"/>
+               <hi>X.</hi> He was very forward with his Complices; for the breaking of the Ice to begin the Treaty here for the Popes honours ſake; and when ſir Robert Doug<g ref="char:EOLhyphen"/>las, and Soignior Georgio were nominated, whom hée thought moſt fit, Cardinall Richlieu was thought fit<g ref="char:EOLhyphen"/>teſt to be the man, who ſhould direct him to begin the Correſpondency betwixt the Pope, and the Quéene; &amp; therefore he was ſent to France with many Letters, &amp; from thence he was diſpatched for Rome, by the Car<g ref="char:EOLhyphen"/>dinall: where he was received with great reſpect, and after a Viaticke, hee was diſpatched againe for Eng<g ref="char:EOLhyphen"/>land, with ſome few ſmall Gifts, Pictures, Croſſes, Agnus Deis, and ſuch like Popiſh ſtuffe to Father Philips, and other of that Function.</p>
+            <p n="11">
+               <hi>XI.</hi> The ſaid Father Philips was the chiefe Agent in Correſpondency with, and bringing in of Seignior Georgio Parſons the oratorian prieſt, by whaſe directi<g ref="char:EOLhyphen"/>on, this Prieſt being at Yaris, left wearing of Prieſts Clothes, and went in the habit of a Gentleman: and becauſe he had a ſhaven Crowne, therefore he wore a Perriwig, &amp; Father Philips directed all thoſe that ſent to him, to write to him, as to an Italian Gentleman, deſirous to ſee theſe Kingdoms, and by Father Philips: his direction, he afterwards came hither: who did here continue for the ſpace of two yeares, practiſing great &amp; dangerous Innovations from place to place. And then having diſpatched his buſines, returned to Rome, with great preſents, from the Catholicks of the greater fort.</p>
+            <p n="12">
+               <hi>XII.</hi> Whereas it hath pleaſed God, to dleſſe us with a hopefull Prince, to the Comfort of our King and King<g ref="char:EOLhyphen"/>dome: yet the ſaid Father Philips hath attempted to traduce his tender yeares to Popery. But God hath prevented him of his purpoſe: and let us pray to God
+<pb facs="tcp:157086:4"/>to preſerve that royall Race from Popery, &amp; the whole Land from all Innovation: that our gracious King may rule gloriouſly, and the whole Land live in peace, to the honour of God, and comfort of us all, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <p>AT the firſt comming of Father <hi>Philips</hi> to the Tower, there were divers Ieſuits, and many of the <hi>Popiſh faction</hi> that came to viſit him; but it hath pleaſed the <hi>Honourable Aſ<g ref="char:EOLhyphen"/>ſembly</hi> in <hi>Parliament</hi> (ſince) to reclaime them. And amongſt the reſt, that came to him: there are committed three of the Queenes Servants, who refuſe to take the Oath.<lb/>
+               <hi>VIZ.</hi>
+               <list>
+                  <item>The <hi>Clarke of the Queenes Cloſet.</hi>
+                  </item>
+                  <item>The <hi>Queenes Cup-bearer.</hi>
+                  </item>
+                  <item>
+                     <hi>And Her Majeſties Apothecary.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Alſo, ſince Father <hi>Philips</hi> was committed to the Tower, there have to the number of about an hundred luſty ſtout fellowes taken up lodgings a<g ref="char:EOLhyphen"/>bout the Tower; to what intents, God knowes: but becauſe they give no better ſatisfaction to the <hi>Honourable Houſe</hi> of <hi>Parliament:</hi> it hath pleaſed them to command them to cuſtody, where they remaine about the tower; part at the ſhip, and the reſt at other places about the Tower, untill it pleaſe the honourable Aſſembly further to exa<g ref="char:EOLhyphen"/>mine the matter.</p>
+         </div>
+         <div type="breve">
+            <pb facs="tcp:157086:5"/>
+            <head>A perfect Coppy of the Popes <hi>Breve,</hi> ſent from <hi>Rome</hi> to <hi>Father Philips,</hi> by <hi>Seigneor Georgeo.</hi>
+            </head>
+            <head type="sub">To the Clergy, Seouler, and Reguler, and Lay-Catholicks of the three Kingdomes of England, Scotland, and Ireland.</head>
+            <p>HIs Holineſſe being very ſory for ſuch jarres, and di<g ref="char:EOLhyphen"/>viſious, between the Seculer, and the Clergy, to the great prejudice of the Catholike Church, and for that re<g ref="char:EOLhyphen"/>ſpect, having a Farherly care of ſoules in thoſe Kingdomes of England, Scotland, and Ireland: he hath ſent expreſſing the Reverend Fathers Georgio Parſona, one of his Fami<g ref="char:EOLhyphen"/>ly, to compoſe and reconcile them, if he can.</p>
+            <p>THis Seignior Georgio, after he had gained Audience of the King to the Queene, he preſents Meddals, &amp; Reliques of Saints, and ſome pieces of gold and ſilver, with the Popes picture ſtamped on them. Then at laſt aſpiring to a Cardinals hat, he laden with great ſtore of Jewels and Gold, mounting to above 10000. pounds, re<g ref="char:EOLhyphen"/>turned to Rome: which 'Jewels and Gold he got, partly of the money which Recuſants ſent for the King, to aſſiſt him in the Northerne Expedition, and partly given him by Papiſt Ladies, and Gentiewomen.</p>
+            <p>This Siegneor Georgeo was made Patriarth of Ieruſalem, whoſe pride was ſo puft np when Sir <hi>William Hambleton</hi> was ſent from Father Philips to that Court: whoſe carriage was like to Siegneor Georgeo here, carryig clothed in mans apparel through England, Scotland, France, and Italy, his ſwéet-heart Eugenius Bonny, a daughter of the young-man, of his Majeſties Wine-Cellec.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157086:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
